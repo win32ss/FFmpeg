@@ -1,3 +1,9 @@
+Foreword by win32
+==================
+
+This is a fork of FFmpeg for NT 5.x systems. The resulting libraries
+will also be integrated into my Telegram fork.
+
 FFmpeg README
 =============
 
